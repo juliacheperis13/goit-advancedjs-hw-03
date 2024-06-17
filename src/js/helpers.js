@@ -1,5 +1,5 @@
 const classes = {
-  hidden: "hidden",
+  hidden: 'hidden',
 };
 
 const toggleVisibility = (element, isHidden) => {
